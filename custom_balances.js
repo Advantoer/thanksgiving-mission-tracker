@@ -4920,7 +4920,6 @@ DATA["thanksgiving-bal-10"] = {
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
-
         {
             "Id": "THX018",
             "Name": "I3T1",
