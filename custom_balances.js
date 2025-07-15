@@ -228,7 +228,7 @@ DATA["thanksgiving-bal-10"] = {
             "MimicGachaId": "plastic",
             "Science": 70,
             "Gold": 0,
-            "Trophy": 10,
+            "Trophy": 20,
             "Card": [
                 {
                     "Id": "THX036",
@@ -241,7 +241,7 @@ DATA["thanksgiving-bal-10"] = {
             "MimicGachaId": "plastic",
             "Science": 75,
             "Gold": 0,
-            "Trophy": 10,
+            "Trophy": 20,
             "Card": [
                 {
                     "Id": "THX042",
@@ -254,7 +254,7 @@ DATA["thanksgiving-bal-10"] = {
             "MimicGachaId": "plastic",
             "Science": 80,
             "Gold": 0,
-            "Trophy": 10,
+            "Trophy": 30,
             "Card": [
                 {
                     "Id": "THX010",
@@ -267,7 +267,7 @@ DATA["thanksgiving-bal-10"] = {
             "MimicGachaId": "plastic",
             "Science": 85,
             "Gold": 0,
-            "Trophy": 10,
+            "Trophy": 30,
             "Card": [
                 {
                     "Id": "THX002",
