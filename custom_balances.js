@@ -74,35 +74,95 @@ DATA["thanksgiving-bal-10"] = {
         }
     ],
     "GachaFreeCycle": [
-        {
-            "Cycle": [
-                "plastic",
-                "plastic",
-                "armored",
-                "plastic",
-                "plastic",
-                "plastic",
-                "armored",
-                "plastic",
-                "plastic",
-                "plastic",
-                "armored",
-                "plastic",
-                "plastic",
-                "plastic",
-                "armored",
-                "plastic",
-                "plastic",
-                "plastic",
-                "armored",
-                "plastic",
-                "plastic",
-                "plastic",
-                "armored",
-                "plastic"
-            ],
-
-        },
+    {
+      "Cycle": [
+        "plastic",
+        "plastic",
+        "armored",
+        "plastic",
+        "plastic",
+        "plastic",
+        "armored",
+        "plastic",
+        "plastic",
+        "plastic",
+        "armored",
+        "plastic",
+        "plastic",
+        "plastic",
+        "armored",
+        "plastic",
+        "plastic",
+        "plastic",
+        "armored",
+        "plastic",
+        "plastic",
+        "plastic",
+        "armored",
+        "plastic"
+      ],
+      "ScriptId": "sc3"
+    }
+  ],
+  "GachaGoldCycle": [
+    {
+      "Cycle": {
+        "plastic": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "armored": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ],
+  "Scripteds": [
         {
             "Id": "sc_m01",
             "Type": "Scripted"
