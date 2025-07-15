@@ -223,8 +223,6 @@ DATA["thanksgiving-bal-10"] = {
             "WeightDivider": 10,
             "Type": "Fixed"
         },
-    ],
-    "Scripteds": [
         {
             "Id": "sc_m01",
             "Type": "Scripted"
@@ -245,7 +243,6 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "sc_m05",
             "Type": "Scripted"
         },
-
         {
             "Id": "sc3",
             "Type": "Scripted"
@@ -342,68 +339,6 @@ DATA["thanksgiving-bal-10"] = {
                 },
             ]
         }
-    ],
-    "GachaLootTable": [
-        {
-            "Id": "plastic",
-            "CardWeight": 14,
-            "RareWeight": - 1,
-            "EpicWeight": -1,
-            "SupremeWeight": -1,
-            "LteRareWeight": 7,
-            "ScienceMin": 55,
-            "ScienceMax": 57,
-            "TrophyMin": 10,
-            "TrophyMax": 10,
-            "ChanceMultiplier": 10,
-            "WeightDivider": 10,
-            "Type": "Normal"
-        },
-        {
-            "Id": "armored",
-            "CardWeight": 32,
-            "RareWeight": - 1,
-            "EpicWeight": -1,
-            "SupremeWeight": -1,
-            "LteRareWeight": 5,
-            "ScienceMin": 165,
-            "ScienceMax": 168,
-            "TrophyMin": 30,
-            "TrophyMax": 30,
-            "ChanceMultiplier": 10,
-            "WeightDivider": 10,
-            "Type": "Normal"
-        },
-        {
-            "Id": "titanium",
-            "CardWeight": 200,
-            "RareWeight": - 1,
-            "EpicWeight": -1,
-            "SupremeWeight": -1,
-            "LteRareWeight": 5,
-            "ScienceMin": 1400,
-            "ScienceMax": 1600,
-            "TrophyMin": 0,
-            "TrophyMax": 0,
-            "ChanceMultiplier": 10,
-            "WeightDivider": 10,
-            "Type": "Premium"
-        },
-        {
-            "Id": "tech",
-            "CardWeight": 100,
-            "RareWeight": - 1,
-            "EpicWeight": -1,
-            "SupremeWeight": -1,
-            "LteRareWeight": 1,
-            "ScienceMin": 0,
-            "ScienceMax": 0,
-            "TrophyMin": 0,
-            "TrophyMax": 0,
-            "ChanceMultiplier": 10,
-            "WeightDivider": 10,
-            "Type": "Fixed"
-        },
     ],
     "Generators": [
         {
