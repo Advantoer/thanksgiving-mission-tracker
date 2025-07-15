@@ -190,23 +190,6 @@ DATA["thanksgiving-bal-10"] = {
     ],
     "GachaScripts": [
         {
-            "GachaId": "sc3",
-            "MimicGachaId": "plastic",
-            "Science": 52,
-            "Gold": 0,
-            "Trophy": 5,
-            "Card": [
-                {
-                    "Id": "THX001",
-                    "Value": 3
-                },
-                {
-                    "Id": "THX042",
-                    "Value": 1
-                },
-            ]
-        },
-        {
             "GachaId": "sc_m01",
             "MimicGachaId": "plastic",
             "Science": 65,
@@ -276,6 +259,23 @@ DATA["thanksgiving-bal-10"] = {
                 {
                     "Id": "THX003",
                     "Value": 5
+                },
+            ]
+        },
+        {
+            "GachaId": "sc3",
+            "MimicGachaId": "plastic",
+            "Science": 52,
+            "Gold": 0,
+            "Trophy": 5,
+            "Card": [
+                {
+                    "Id": "THX001",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX042",
+                    "Value": 1
                 },
             ]
         },
