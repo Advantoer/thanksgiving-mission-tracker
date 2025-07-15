@@ -455,7 +455,7 @@ DATA["thanksgiving-bal-10"] = {
             "Cost": [
                 {
                     "Resource": "silosmasher",
-                    "Qty": 1.5e+7
+                    "Qty": 7.5e+7
                 },
                 {
                     "Resource": "Mashpotato",
@@ -743,7 +743,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Turkeyleg",
-                    "Qty": 1e+23
+                    "Qty": 1e+24
                 },
                 {
                     "Resource": "Comrade",
@@ -1123,7 +1123,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 1e+27
+                    "Qty": 1e+28
                 },
                 {
                     "Resource": "Comrade",
@@ -3814,8 +3814,8 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1100,
-                "ConditionId": "darkscience"
+                "Threshold": 1e+15,
+                "ConditionId": "fire"
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -3862,7 +3862,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 5e+6,
+                "Threshold": 5.6e+6,
                 "ConditionId": "drumstickfarm"
             },
             "Reward": {
@@ -3926,7 +3926,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesSpentSinceSubscription",
-                "Threshold": 400,
+                "Threshold": 550,
                 "ConditionId": "darkscience"
             },
             "Reward": {
@@ -3942,7 +3942,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 2.5e+7,
+                "Threshold": 3.27e+7,
                 "ConditionId": "drumstickfarm"
             },
             "Reward": {
@@ -5001,7 +5001,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteCommon",
-            "PlayerRankUnlock": 16,
+            "PlayerRankUnlock": 17,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
