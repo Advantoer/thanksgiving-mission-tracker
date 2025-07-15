@@ -4156,7 +4156,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4.4e+8,
+                "Threshold": 4.4e+7,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -4410,7 +4410,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": "2",
             "Name": "UNUSED",
             "SpriteName": "art-avatar",
-            "Missions": "2",
+            "Missions": "3",
             "ActiveMissionCount": 3,
             "RewardType": "None",
             "NormalGachaMultiplier": 0.375,
