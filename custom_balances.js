@@ -3833,7 +3833,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armoured",
+                "RewardId": "armored",
                 "Value": 1
 
             }
@@ -3849,7 +3849,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armoured",
+                "RewardId": "armored",
                 "Value": 1
 
             }
@@ -3945,7 +3945,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armoured",
+                "RewardId": "armored",
                 "Value": 1
 
             }
@@ -3977,7 +3977,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armoured",
+                "RewardId": "armored",
                 "Value": 1
 
             }
@@ -4035,7 +4035,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "armored",
                 "Value": 1
             }
         },
@@ -4077,7 +4077,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armoured",
+                "RewardId": "armored",
                 "Value": 1
             }
         },
@@ -4091,7 +4091,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armoured",
+                "RewardId": "armored",
                 "Value": 1
             }
         },
