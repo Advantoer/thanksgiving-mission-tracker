@@ -183,66 +183,7 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "sc_m05",
             "Type": "Scripted"
         },
-        {
-            "Id": "sc_m06",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m07",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m08",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m09",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m10",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m11",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m12",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m13",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m14",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m15",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m16",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m17",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m18",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m19",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m20",
-            "Type": "Scripted"
-        },
+        
         {
             "Id": "sc3",
             "Type": "Scripted"
