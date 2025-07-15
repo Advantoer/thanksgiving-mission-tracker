@@ -304,18 +304,6 @@ DATA["thanksgiving-bal-10"] = {
             "Type": "Scripted"
         },
         {
-            "Id": "sc_m21",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m22",
-            "Type": "Scripted"
-        },
-        {
-            "Id": "sc_m23",
-            "Type": "Scripted"
-        },
-        {
             "Id": "sc3",
             "Type": "Scripted"
         }
