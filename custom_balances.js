@@ -323,6 +323,380 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
+            "GachaId": "sc_m06",
+            "MimicGachaId": "plastic",
+            "Science": 90,
+            "Gold": 0,
+            "Trophy": 40,
+            "Card": [
+                {
+                    "Id": "THX010",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX043",
+                    "Value": 3
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m07",
+            "MimicGachaId": "plastic",
+            "Science": 95,
+            "Gold": 0,
+            "Trophy": 50,
+            "Card": [
+                {
+                    "Id": "THX010",
+                    "Value": 5
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 3
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m08",
+            "MimicGachaId": "plastic",
+            "Science": 105,
+            "Gold": 0,
+            "Trophy": 50,
+            "Card": [
+                {
+                    "Id": "THX011",
+                    "Value": 8
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 1
+                },
+                {
+                    "Id": "THX043",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m09",
+            "MimicGachaId": "plastic",
+            "Science": 115,
+            "Gold": 0,
+            "Trophy": 70,
+            "Card": [
+                {
+                    "Id": "THX004",
+                    "Value": 9
+                },
+                {
+                    "Id": "THX036",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX042",
+                    "Value": 2
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m10",
+            "MimicGachaId": "armored",
+            "Science": 125,
+            "Gold": 0,
+            "Trophy": 80,
+            "Card": [
+                {
+                    "Id": "THX018",
+                    "Value": 6
+                },
+                {
+                    "Id": "THX043",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m11",
+            "MimicGachaId": "plastic",
+            "Science": 130,
+            "Gold": 0,
+            "Trophy": 100,
+            "Card": [
+                {
+                    "Id": "THX011",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX044",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m12",
+            "MimicGachaId": "plastic",
+            "Science": 135,
+            "Gold": 0,
+            "Trophy": 100,
+            "Card": [
+                {
+                    "Id": "THX012",
+                    "Value": 7
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX043",
+                    "Value": 2
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m13",
+            "MimicGachaId": "plastic",
+            "Science": 140,
+            "Gold": 0,
+            "Trophy": 125,
+            "Card": [
+                {
+                    "Id": "THX005",
+                    "Value": 8
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 3
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m14",
+            "MimicGachaId": "armored",
+            "Science": 150,
+            "Gold": 0,
+            "Trophy": 125,
+            "Card": [
+                {
+                    "Id": "THX011",
+                    "Value": 1
+                },
+                {
+                    "Id": "THX047",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX042",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX043",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m15",
+            "MimicGachaId": "plastic",
+            "Science": 150,
+            "Gold": 0,
+            "Trophy": 125,
+            "Card": [
+                {
+                    "Id": "THX018",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX038",
+                    "Value": 2
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m16",
+            "MimicGachaId": "plastic",
+            "Science": 155,
+            "Gold": 0,
+            "Trophy": 125,
+            "Card": [
+                {
+                    "Id": "THX018",
+                    "Value": 9
+                },
+                {
+                    "Id": "THX019",
+                    "Value": 6
+                },
+                {
+                    "Id": "THX044",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX047",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m17",
+            "MimicGachaId": "armored",
+            "Science": 165,
+            "Gold": 0,
+            "Trophy": 200,
+            "Card": [
+                {
+                    "Id": "THX048",
+                    "Value": 1
+                },
+                {
+                    "Id": "THX001",
+                    "Value": 5
+                },
+                {
+                    "Id": "THX002",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX003",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX004",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX005",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m18",
+            "MimicGachaId": "plastic",
+            "Science": 180,
+            "Gold": 0,
+            "Trophy": 250,
+            "Card": [
+                {
+                    "Id": "THX013",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX043",
+                    "Value": 2
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m19",
+            "MimicGachaId": "plastic",
+            "Science": 180,
+            "Gold": 0,
+            "Trophy": 250,
+            "Card": [
+                {
+                    "Id": "THX049",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX010",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX011",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX012",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX013",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m20",
+            "MimicGachaId": "plastic",
+            "Science": 185,
+            "Gold": 0,
+            "Trophy": 255,
+            "Card": [
+                {
+                    "Id": "THX020",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX044",
+                    "Value": 2
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m21",
+            "MimicGachaId": "plastic",
+            "Science": 185,
+            "Gold": 0,
+            "Trophy": 265,
+            "Card": [
+                {
+                    "Id": "THX006",
+                    "Value": 9
+                },
+                {
+                    "Id": "THX042",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m22",
+            "MimicGachaId": "plastic",
+            "Science": 185,
+            "Gold": 0,
+            "Trophy": 265,
+            "Card": [
+                {
+                    "Id": "THX025",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX047",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m23",
+            "MimicGachaId": "plastic",
+            "Science": 200,
+            "Gold": 0,
+            "Trophy": 275,
+            "Card": [
+                {
+                    "Id": "THX041",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX036",
+                    "Value": 1
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 1
+                },
+                {
+                    "Id": "THX038",
+                    "Value": 1
+                },
+            ]
+        },
+        {
             "GachaId": "sc3",
             "MimicGachaId": "plastic",
             "Science": 52,
@@ -650,7 +1024,7 @@ DATA["thanksgiving-bal-10"] = {
             "Cost": [
                 {
                     "Resource": "gravyfeds",
-                    "Qty": 7.5e+8
+                    "Qty": 5e+9
                 },
                 {
                     "Resource": "Mashpotato",
@@ -676,7 +1050,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "gravyfeds",
-                "Threshold": 5e+10
+                "Threshold": 2.5e+11
             },
             "IncludeInAll": true,
             "Crit": {
@@ -986,7 +1360,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Turkeyleg",
-                    "Qty": 5e+66
+                    "Qty": 5e+65
                 },
                 {
                     "Resource": "Comrade",
@@ -5599,7 +5973,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteCommon",
-            "PlayerRankUnlock": 20,
+            "PlayerRankUnlock": 22,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
@@ -5689,7 +6063,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteCommon",
-            "PlayerRankUnlock": 17,
+            "PlayerRankUnlock": 18,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
@@ -5926,7 +6300,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "mashpotato"
             ],
-            "ExpoMultiplier": 3,
+            "ExpoMultiplier": 4,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -5943,7 +6317,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "turkeyleg"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 5,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -5960,7 +6334,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "fire"
             ],
-            "ExpoMultiplier": 5,
+            "ExpoMultiplier": 6,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -5977,7 +6351,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "pie"
             ],
-            "ExpoMultiplier": 6,
+            "ExpoMultiplier": 7,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -5994,7 +6368,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "cornucopia"
             ],
-            "ExpoMultiplier": 7,
+            "ExpoMultiplier": 8,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
