@@ -104,89 +104,89 @@ DATA["thanksgiving-bal-10"] = {
 
         },
         {
-      "Id": "sc_m01",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m02",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m03",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m04",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m05",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m06",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m07",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m08",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m09",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m10",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m11",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m12",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m13",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m14",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m15",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m16",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m17",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m18",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m19",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc_m20",
-      "Type": "Scripted"
-    },
-    {
-      "Id": "sc3",
-      "Type": "Scripted"
-    }
+            "Id": "sc_m01",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m02",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m03",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m04",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m05",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m06",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m07",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m08",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m09",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m10",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m11",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m12",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m13",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m14",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m15",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m16",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m17",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m18",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m19",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m20",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc3",
+            "Type": "Scripted"
+        }
     ],
     "GachaScripts": [
         {
@@ -207,7 +207,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_01",
+            "GachaId": "sc_m01",
             "MimicGachaId": "plastic",
             "Science": 65,
             "Gold": 0,
@@ -224,7 +224,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_02",
+            "GachaId": "sc_m02",
             "MimicGachaId": "plastic",
             "Science": 70,
             "Gold": 0,
@@ -237,7 +237,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_03",
+            "GachaId": "sc_m03",
             "MimicGachaId": "plastic",
             "Science": 75,
             "Gold": 0,
@@ -250,7 +250,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_04",
+            "GachaId": "sc_m04",
             "MimicGachaId": "plastic",
             "Science": 80,
             "Gold": 0,
@@ -263,7 +263,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_05",
+            "GachaId": "sc_m05",
             "MimicGachaId": "plastic",
             "Science": 85,
             "Gold": 0,
@@ -3036,7 +3036,7 @@ DATA["thanksgiving-bal-10"] = {
         "EnableNewBucketing": false
     },
     "Missions": [
-         {
+        {
             "Id": "M001",
             "Rank": 1,
             "Condition": {
@@ -3091,7 +3091,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_01",
+                "RewardId": "sc_m01",
                 "Value": 1
 
             }
@@ -3136,7 +3136,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_02",
+                "RewardId": "sc_m02",
                 "Value": 1
 
             }
@@ -3151,7 +3151,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_03",
+                "RewardId": "sc_m03",
                 "Value": 1
 
             }
@@ -3182,7 +3182,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_04",
+                "RewardId": "sc_m04",
                 "Value": 1
 
             }
@@ -3225,7 +3225,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_05",
+                "RewardId": "sc_m05",
                 "Value": 1
             }
         },
@@ -4328,7 +4328,7 @@ DATA["thanksgiving-bal-10"] = {
                 "Value": 1
             }
         },
-         {
+        {
             "Id": "M086",
             "Rank": 1,
             "Condition": {
