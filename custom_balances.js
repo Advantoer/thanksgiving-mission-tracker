@@ -304,6 +304,18 @@ DATA["thanksgiving-bal-10"] = {
             "Type": "Scripted"
         },
         {
+            "Id": "sc_m21",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m22",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m23",
+            "Type": "Scripted"
+        },
+        {
             "Id": "sc3",
             "Type": "Scripted"
         }
@@ -6767,7 +6779,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "mashpotato"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 6,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -6784,7 +6796,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "turkeyleg"
             ],
-            "ExpoMultiplier": 5,
+            "ExpoMultiplier": 6,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -6801,7 +6813,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "fire"
             ],
-            "ExpoMultiplier": 6,
+            "ExpoMultiplier": 7,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -6818,7 +6830,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "pie"
             ],
-            "ExpoMultiplier": 7,
+            "ExpoMultiplier": 8,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
