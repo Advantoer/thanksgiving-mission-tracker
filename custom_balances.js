@@ -336,6 +336,54 @@ DATA["thanksgiving-bal-10"] = {
             "Type": "Scripted"
         },
         {
+            "Id": "sc_m29",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m30",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m31",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m32",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m33",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m34",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m35",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m36",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m37",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m38",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_39",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m40",
+            "Type": "Scripted"
+        },
+        {
             "Id": "sc3",
             "Type": "Scripted"
         }
@@ -4503,7 +4551,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m16",
+                "RewardId": "sc_m17",
                 "Value": 1
 
             }
