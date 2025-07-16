@@ -316,6 +316,26 @@ DATA["thanksgiving-bal-10"] = {
             "Type": "Scripted"
         },
         {
+            "Id": "sc_m24",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m25",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m26",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m27",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m28",
+            "Type": "Scripted"
+        },
+        {
             "Id": "sc3",
             "Type": "Scripted"
         }
@@ -765,6 +785,111 @@ DATA["thanksgiving-bal-10"] = {
                 {
                     "Id": "THX038",
                     "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m24",
+            "MimicGachaId": "plastic",
+            "Science": 200,
+            "Gold": 0,
+            "Trophy": 270,
+            "Card": [
+                {
+                    "Id": "THX050",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX018",
+                    "Value": 5
+                },
+                {
+                    "Id": "THX019",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX020",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m25",
+            "MimicGachaId": "plastic",
+            "Science": 200,
+            "Gold": 0,
+            "Trophy": 275,
+            "Card": [
+                {
+                    "Id": "THX045",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX025",
+                    "Value": 10
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m26",
+            "MimicGachaId": "plastic",
+            "Science": 205,
+            "Gold": 0,
+            "Trophy": 275,
+            "Card": [
+                {
+                    "Id": "THX039",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX041",
+                    "Value": 2
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m27",
+            "MimicGachaId": "plastic",
+            "Science": 215,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
+                {
+                    "Id": "THX021",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX020",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX019",
+                    "Value": 5
+                },
+                {
+                    "Id": "THX018",
+                    "Value": 6
+                },
+                {
+                    "Id": "THX045",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m28",
+            "MimicGachaId": "plastic",
+            "Science": 225,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
+                {
+                    "Id": "THX025",
+                    "Value": 11
+                },
+                {
+                    "Id": "THX026",
+                    "Value": 5
                 },
             ]
         },
@@ -5388,7 +5513,48 @@ DATA["thanksgiving-bal-10"] = {
                 "Value": 1
             }
         },
-        
+        {
+            "Id": "M130",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 2400,
+                "ConditionId": "darkscience"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "armored",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M131",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 9.79e+46,
+                "ConditionId": "fire"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M132",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 4e+11,
+                "ConditionId": "feastfactory"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m23",
+                "Value": 1
+            }
+        }, 
     ],
     "Ranks": [
         {
