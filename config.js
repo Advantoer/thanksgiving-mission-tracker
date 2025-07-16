@@ -65,7 +65,9 @@ const BALANCE_UPDATE_VERSION = {
   "supervillain-bal-17": "6.46",
   "winter-bal-3": "6.14",
   "zombie-bal-5": "6.14",
-  "main": "6.46"
+  "main": "6.46",
+
+  "thanksgiving-bal-10": "6.47"
 };
 
 // For game-specific documentation and social channels

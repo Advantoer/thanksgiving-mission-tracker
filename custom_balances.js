@@ -7951,11 +7951,9 @@ DATA["thanksgiving-bal-10"] = {
 }
 
 let ADDITIONAL_LANGUAGE = `
+placeholder=placeholder
 lte.thanksgiving.name=Glorious Thanksgiving Feast
 lte.thanksgiving.desc=It's that time of year where comrades get together, enjoy a massive feast, huddle up and celebrate the Motherland!
-
-
-
 
 
 foodlabour=Mash Potato
