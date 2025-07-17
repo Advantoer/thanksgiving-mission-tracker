@@ -1292,7 +1292,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "kitchen",
-                "Threshold": 3e+6
+                "Threshold": 5e+6
             },
             "IncludeInAll": true,
             "Crit": {
@@ -4097,7 +4097,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.5e+15,
+                "Threshold": 5e+17,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
@@ -4248,7 +4248,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.23e+6,
+                "Threshold": 9e+5,
                 "ConditionId": "kitchen"
             },
             "Reward": {
@@ -4323,7 +4323,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3e+6,
+                "Threshold": 5e+6,
                 "ConditionId": "kitchen"
             },
             "Reward": {
@@ -7232,7 +7232,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "mashpotato"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7249,7 +7249,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "turkeyleg"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7266,7 +7266,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "fire"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
