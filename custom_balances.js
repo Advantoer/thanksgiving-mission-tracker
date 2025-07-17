@@ -5595,7 +5595,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 5e+9,
+                "Threshold": 7.5e+9,
                 "ConditionId": "feastfactory"
             },
             "Reward": {
@@ -7232,8 +7232,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "mashpotato"
             ],
-            "ExpoMultiplier": 6,
-            "ExpoGrowth": 3,
+            "ExpoMultiplier": 10,
+            "ExpoGrowth": 2,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7249,8 +7249,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "turkeyleg"
             ],
-            "ExpoMultiplier": 5,
-            "ExpoGrowth": 3,
+            "ExpoMultiplier": 9,
+            "ExpoGrowth": 2,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7266,8 +7266,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "fire"
             ],
-            "ExpoMultiplier": 5,
-            "ExpoGrowth": 3,
+            "ExpoMultiplier": 8,
+            "ExpoGrowth": 2,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7283,8 +7283,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "pie"
             ],
-            "ExpoMultiplier": 4,
-            "ExpoGrowth": 3,
+            "ExpoMultiplier": 7,
+            "ExpoGrowth": 2,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7300,8 +7300,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "cornucopia"
             ],
-            "ExpoMultiplier": 3,
-            "ExpoGrowth": 3,
+            "ExpoMultiplier": 6,
+            "ExpoGrowth": 2,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
