@@ -1768,7 +1768,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "feastfactory",
-                "Threshold": 3.5e+10
+                "Threshold": 2e+10
             },
             "IncludeInAll": true,
             "Crit": {
@@ -5791,7 +5791,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3.5e+10,
+                "Threshold": 2e+10,
                 "ConditionId": "feastfactory"
             },
             "Reward": {
@@ -7232,8 +7232,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "mashpotato"
             ],
-            "ExpoMultiplier": 10,
-            "ExpoGrowth": 2,
+            "ExpoMultiplier": 4,
+            "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7249,8 +7249,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "turkeyleg"
             ],
-            "ExpoMultiplier": 9,
-            "ExpoGrowth": 2,
+            "ExpoMultiplier": 4,
+            "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7266,8 +7266,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "fire"
             ],
-            "ExpoMultiplier": 8,
-            "ExpoGrowth": 2,
+            "ExpoMultiplier": 4,
+            "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7283,8 +7283,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "pie"
             ],
-            "ExpoMultiplier": 7,
-            "ExpoGrowth": 2,
+            "ExpoMultiplier": 4,
+            "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
@@ -7300,8 +7300,8 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "cornucopia"
             ],
-            "ExpoMultiplier": 6,
-            "ExpoGrowth": 2,
+            "ExpoMultiplier": 4,
+            "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
             "BasePower": 0,
