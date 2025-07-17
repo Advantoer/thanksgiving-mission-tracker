@@ -1768,7 +1768,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "feastfactory",
-                "Threshold": 1.5e+10
+                "Threshold": 2.5e+10
             },
             "IncludeInAll": true,
             "Crit": {
@@ -5735,7 +5735,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.5e+10,
+                "Threshold": 2.5e+10,
                 "ConditionId": "gravyfeds"
             },
             "Reward": {
@@ -7232,7 +7232,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "mashpotato"
             ],
-            "ExpoMultiplier": 6,
+            "ExpoMultiplier": 7,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7266,7 +7266,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "fire"
             ],
-            "ExpoMultiplier": 7,
+            "ExpoMultiplier": 5,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7283,7 +7283,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "pie"
             ],
-            "ExpoMultiplier": 8,
+            "ExpoMultiplier": 4,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7300,7 +7300,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "cornucopia"
             ],
-            "ExpoMultiplier": 8,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
