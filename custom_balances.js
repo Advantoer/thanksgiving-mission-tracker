@@ -4399,7 +4399,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 8500,
+                "Threshold": 75000,
                 "ConditionId": "toasteroven"
             },
             "Reward": {
