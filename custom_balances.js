@@ -685,7 +685,7 @@ DATA["thanksgiving-bal-10"] = {
         },
         {
             "GachaId": "sc_m15",
-            "MimicGachaId": "armored",
+            "MimicGachaId": "plastic",
             "Science": 150,
             "Gold": 0,
             "Trophy": 125,
@@ -914,19 +914,6 @@ DATA["thanksgiving-bal-10"] = {
             "MimicGachaId": "plastic",
             "Science": 200,
             "Gold": 0,
-            "Trophy": 275,
-            "Card": [
-                {
-                    "Id": "THX014",
-                    "Value": 4
-                },
-            ]
-        },
-        {
-            "GachaId": "sc_m26",
-            "MimicGachaId": "plastic",
-            "Science": 200,
-            "Gold": 0,
             "Trophy": 270,
             "Card": [
                 {
@@ -948,7 +935,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m27",
+            "GachaId": "sc_m26",
             "MimicGachaId": "plastic",
             "Science": 200,
             "Gold": 0,
@@ -965,7 +952,53 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
+            "GachaId": "sc_m27",
+            "MimicGachaId": "plastic",
+            "Science": 210,
+            "Gold": 0,
+            "Trophy": 275,
+            "Card": [
+                {
+                    "Id": "THX039",
+                    "Value": 2
+                },
+            ]
+        },
+        {
             "GachaId": "sc_m28",
+            "MimicGachaId": "plastic",
+            "Science": 250,
+            "Gold": 0,
+            "Trophy": 300,
+            "Card": [
+                {
+                    "Id": "THX014",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX041",
+                    "Value": 5
+                },
+                {
+                    "Id": "THX039",
+                    "Value": 1
+                },
+                {
+                    "Id": "THX038",
+                    "Value": 3
+                },
+                {
+                    "Id": "THX037",
+                    "Value": 2
+                },
+                {
+                    "Id": "THX036",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m29",
             "MimicGachaId": "plastic",
             "Science": 205,
             "Gold": 0,
@@ -982,7 +1015,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m29",
+            "GachaId": "sc_m30",
             "MimicGachaId": "plastic",
             "Science": 215,
             "Gold": 0,
@@ -1011,7 +1044,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m30",
+            "GachaId": "sc_m31",
             "MimicGachaId": "plastic",
             "Science": 225,
             "Gold": 0,
@@ -1024,7 +1057,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m31",
+            "GachaId": "sc_m32",
             "MimicGachaId": "plastic",
             "Science": 225,
             "Gold": 0,
@@ -1037,7 +1070,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m32",
+            "GachaId": "sc_m33",
             "MimicGachaId": "plastic",
             "Science": 225,
             "Gold": 0,
@@ -1735,7 +1768,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "feastfactory",
-                "Threshold": 4e+10
+                "Threshold": 1.5e+10
             },
             "IncludeInAll": true,
             "Crit": {
@@ -5562,7 +5595,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1e+10,
+                "Threshold": 7.5e+9,
                 "ConditionId": "feastfactory"
             },
             "Reward": {
@@ -5702,31 +5735,17 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4e+11,
-                "ConditionId": "feastfactory"
-            },
-            "Reward": {
-                "Reward": "Gacha",
-                "RewardId": "sc_m25",
-                "Value": 1
-            }
-        }, 
-        {
-            "Id": "M133",
-            "Rank": 1,
-            "Condition": {
-                "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1.23e+18,
-                "ConditionId": "pie"
+                "Threshold": 1.5e+10,
+                "ConditionId": "gravyfeds"
             },
             "Reward": {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
                 "Value": 1
             }
-        },
+        }, 
         {
-            "Id": "M134",
+            "Id": "M133",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
@@ -5735,12 +5754,68 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m26",
+                "RewardId": "sc_m25",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M134",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 1.23e+18,
+                "ConditionId": "pie"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_26",
                 "Value": 1
             }
         },
         {
             "Id": "M135",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 4.3634e+8,
+                "ConditionId": "crustkneader"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m27",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M136",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 1.5e+10,
+                "ConditionId": "feastfactory"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m28",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M137",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResearchersUpgradedSinceSubscription",
+                "Threshold": 4,
+                "ConditionId": "any"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "armored",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M138",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
@@ -5754,16 +5829,16 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M136",
+            "Id": "M139",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourceQuantity",
-                "Threshold": 4.3634e+8,
-                "ConditionId": "crustkneader"
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 1.15e+53,
+                "ConditionId": "fire"
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m27",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
@@ -7214,7 +7289,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteRare",
-            "PlayerRankUnlock": 23,
+            "PlayerRankUnlock": 22,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
