@@ -5735,7 +5735,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 2e+10,
+                "Threshold": 5e+10,
                 "ConditionId": "gravyfeds"
             },
             "Reward": {
@@ -5777,7 +5777,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4.3634e+8,
+                "Threshold": 5e+8,
                 "ConditionId": "crustkneader"
             },
             "Reward": {
@@ -5791,7 +5791,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3e+10,
+                "Threshold": 3.5e+10,
                 "ConditionId": "feastfactory"
             },
             "Reward": {
@@ -7249,7 +7249,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "turkeyleg"
             ],
-            "ExpoMultiplier": 6,
+            "ExpoMultiplier": 5,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7300,7 +7300,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "cornucopia"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
