@@ -5595,7 +5595,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 7.5e+9,
+                "Threshold": 5e+9,
                 "ConditionId": "feastfactory"
             },
             "Reward": {
