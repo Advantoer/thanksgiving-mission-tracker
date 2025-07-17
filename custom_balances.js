@@ -4172,7 +4172,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 7.7e+18,
+                "Threshold": 7.7e+19,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
