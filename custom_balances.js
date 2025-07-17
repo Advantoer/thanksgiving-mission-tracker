@@ -3950,7 +3950,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
-                "Threshold": 3,
+                "Threshold": 5,
                 "ConditionId": "turkeyleg"
             },
             "Reward": {
@@ -4368,7 +4368,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
-                "Threshold": 5,
+                "Threshold": 7,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5441,7 +5441,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
-                "Threshold": 9,
+                "Threshold": 10,
                 "ConditionId": "pie"
             },
             "Reward": {
