@@ -4479,7 +4479,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.6e+6,
+                "Threshold": 5e+6,
                 "ConditionId": "tatertruck"
             },
             "Reward": {
