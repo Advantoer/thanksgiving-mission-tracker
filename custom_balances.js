@@ -384,6 +384,62 @@ DATA["thanksgiving-bal-10"] = {
             "Type": "Scripted"
         },
         {
+            "Id": "sc_m41",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m42",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m43",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m44",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m45",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m46",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m47",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m48",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m49",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m50",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m51",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m52",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m53",
+            "Type": "Scripted"
+        },
+        {
+            "Id": "sc_m54",
+            "Type": "Scripted"
+        },
+        {
             "Id": "sc3",
             "Type": "Scripted"
         }
@@ -517,8 +573,21 @@ DATA["thanksgiving-bal-10"] = {
                 },
             ]
         },
-        {
+         {
             "GachaId": "sc_m09",
+            "MimicGachaId": "plastic",
+            "Science": 115,
+            "Gold": 0,
+            "Trophy": 70,
+            "Card": [
+                {
+                    "Id": "THX055",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m10",
             "MimicGachaId": "plastic",
             "Science": 115,
             "Gold": 0,
@@ -539,7 +608,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m10",
+            "GachaId": "sc_m11",
             "MimicGachaId": "armored",
             "Science": 125,
             "Gold": 0,
@@ -556,7 +625,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m11",
+            "GachaId": "sc_m12",
             "MimicGachaId": "plastic",
             "Science": 130,
             "Gold": 0,
@@ -577,7 +646,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m12",
+            "GachaId": "sc_m13",
             "MimicGachaId": "plastic",
             "Science": 135,
             "Gold": 0,
@@ -598,7 +667,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m13",
+            "GachaId": "sc_m14",
             "MimicGachaId": "plastic",
             "Science": 140,
             "Gold": 0,
@@ -615,7 +684,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m14",
+            "GachaId": "sc_m15",
             "MimicGachaId": "armored",
             "Science": 150,
             "Gold": 0,
@@ -640,7 +709,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m15",
+            "GachaId": "sc_m16",
             "MimicGachaId": "plastic",
             "Science": 150,
             "Gold": 0,
@@ -657,7 +726,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m16",
+            "GachaId": "sc_m17",
             "MimicGachaId": "plastic",
             "Science": 155,
             "Gold": 0,
@@ -682,7 +751,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m17",
+            "GachaId": "sc_m18",
             "MimicGachaId": "armored",
             "Science": 165,
             "Gold": 0,
@@ -715,7 +784,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m18",
+            "GachaId": "sc_m19",
             "MimicGachaId": "plastic",
             "Science": 180,
             "Gold": 0,
@@ -732,7 +801,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m19",
+            "GachaId": "sc_m20",
             "MimicGachaId": "plastic",
             "Science": 180,
             "Gold": 0,
@@ -761,7 +830,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m20",
+            "GachaId": "sc_m21",
             "MimicGachaId": "plastic",
             "Science": 185,
             "Gold": 0,
@@ -778,7 +847,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m21",
+            "GachaId": "sc_m22",
             "MimicGachaId": "plastic",
             "Science": 185,
             "Gold": 0,
@@ -789,24 +858,7 @@ DATA["thanksgiving-bal-10"] = {
                     "Value": 9
                 },
                 {
-                    "Id": "THX042",
-                    "Value": 1
-                },
-            ]
-        },
-        {
-            "GachaId": "sc_m22",
-            "MimicGachaId": "plastic",
-            "Science": 185,
-            "Gold": 0,
-            "Trophy": 265,
-            "Card": [
-                {
-                    "Id": "THX025",
-                    "Value": 4
-                },
-                {
-                    "Id": "THX047",
+                    "Id": "THX041",
                     "Value": 1
                 },
             ]
@@ -820,7 +872,7 @@ DATA["thanksgiving-bal-10"] = {
             "Card": [
                 {
                     "Id": "THX041",
-                    "Value": 3
+                    "Value": 2
                 },
                 {
                     "Id": "THX036",
@@ -834,10 +886,44 @@ DATA["thanksgiving-bal-10"] = {
                     "Id": "THX038",
                     "Value": 1
                 },
+                {
+                    "Id": "THX006",
+                    "Value": 1
+                },
             ]
         },
         {
             "GachaId": "sc_m24",
+            "MimicGachaId": "plastic",
+            "Science": 200,
+            "Gold": 0,
+            "Trophy": 275,
+            "Card": [
+                {
+                    "Id": "THX025",
+                    "Value": 4
+                },
+                {
+                    "Id": "THX047",
+                    "Value": 1
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m25",
+            "MimicGachaId": "plastic",
+            "Science": 200,
+            "Gold": 0,
+            "Trophy": 275,
+            "Card": [
+                {
+                    "Id": "THX014",
+                    "Value": 4
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m26",
             "MimicGachaId": "plastic",
             "Science": 200,
             "Gold": 0,
@@ -862,7 +948,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m25",
+            "GachaId": "sc_m27",
             "MimicGachaId": "plastic",
             "Science": 200,
             "Gold": 0,
@@ -879,7 +965,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m26",
+            "GachaId": "sc_m28",
             "MimicGachaId": "plastic",
             "Science": 205,
             "Gold": 0,
@@ -896,7 +982,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m27",
+            "GachaId": "sc_m29",
             "MimicGachaId": "plastic",
             "Science": 215,
             "Gold": 0,
@@ -925,19 +1011,41 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GachaId": "sc_m28",
+            "GachaId": "sc_m30",
             "MimicGachaId": "plastic",
             "Science": 225,
             "Gold": 0,
             "Trophy": 280,
             "Card": [
                 {
-                    "Id": "THX025",
+                    "Id": "THX007",
                     "Value": 11
                 },
+            ]
+        },
+        {
+            "GachaId": "sc_m31",
+            "MimicGachaId": "plastic",
+            "Science": 225,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
                 {
                     "Id": "THX026",
-                    "Value": 5
+                    "Value": 9
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m32",
+            "MimicGachaId": "plastic",
+            "Science": 225,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
+                {
+                    "Id": "THX015",
+                    "Value": 12
                 },
             ]
         },
@@ -3991,7 +4099,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m09",
                 "Value": 1
 
             }
@@ -4157,7 +4265,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m09",
+                "RewardId": "sc_m10",
                 "Value": 1
 
             }
@@ -4217,7 +4325,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m10",
+                "RewardId": "sc_m11",
                 "Value": 1
 
             }
@@ -4439,7 +4547,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m11",
+                "RewardId": "sc_m12",
                 "Value": 1
 
             }
@@ -4455,7 +4563,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m12",
+                "RewardId": "sc_m13",
                 "Value": 1
 
             }
@@ -4471,7 +4579,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m13",
+                "RewardId": "sc_m14",
                 "Value": 1
 
             }
@@ -4503,7 +4611,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m14",
+                "RewardId": "sc_m15",
                 "Value": 1
 
             }
@@ -4535,7 +4643,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m15",
+                "RewardId": "sc_m16",
                 "Value": 1
 
             }
@@ -4787,7 +4895,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m17",
+                "RewardId": "sc_m18",
                 "Value": 1
             }
         },
@@ -5039,7 +5147,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m18",
+                "RewardId": "sc_m19",
                 "Value": 1
             }
         },
@@ -5081,7 +5189,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m19",
+                "RewardId": "sc_m20",
                 "Value": 1
             }
         },
@@ -5165,7 +5273,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m21",
                 "Value": 1
             }
         },
@@ -5193,7 +5301,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m21",
+                "RewardId": "sc_m22",
                 "Value": 1
             }
         },
@@ -5263,7 +5371,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m22",
+                "RewardId": "sc_m23",
                 "Value": 1
             }
         },
@@ -5277,7 +5385,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m23",
+                "RewardId": "sc_m24",
                 "Value": 1
             }
         },
@@ -5599,10 +5707,66 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m23",
+                "RewardId": "sc_m25",
                 "Value": 1
             }
         }, 
+        {
+            "Id": "M133",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 1.23e+18,
+                "ConditionId": "pie"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M134",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 1.15e+49,
+                "ConditionId": "fire"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m26",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M135",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 11,
+                "ConditionId": "turkeylegtycoon"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M136",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 4.3634e+8,
+                "ConditionId": "crustkneader"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m27",
+                "Value": 1
+            }
+        },
     ],
     "Ranks": [
         {
@@ -6500,7 +6664,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteCommon",
-            "PlayerRankUnlock": 2,
+            "PlayerRankUnlock": 3,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
@@ -7084,7 +7248,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteRare",
-            "PlayerRankUnlock": 19,
+            "PlayerRankUnlock": 18,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
