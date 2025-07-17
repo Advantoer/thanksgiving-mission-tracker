@@ -1672,7 +1672,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "gobbleguru",
-                "Threshold": 2e+7
+                "Threshold": 1.5e+7
             },
             "IncludeInAll": true,
             "Crit": {
@@ -4543,7 +4543,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.4e+7,
+                "Threshold": 1.5e+7,
                 "ConditionId": "gobbleguru"
             },
             "Reward": {
