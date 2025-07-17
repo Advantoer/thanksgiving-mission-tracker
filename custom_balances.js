@@ -977,7 +977,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Id": "THX041",
-                    "Value": 5
+                    "Value": 4
                 },
                 {
                     "Id": "THX039",
@@ -985,7 +985,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Id": "THX038",
-                    "Value": 3
+                    "Value": 1
                 },
                 {
                     "Id": "THX037",
@@ -993,7 +993,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Id": "THX036",
-                    "Value": 1
+                    "Value": 2
                 },
             ]
         },
