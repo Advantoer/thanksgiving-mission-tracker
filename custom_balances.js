@@ -4767,7 +4767,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 6.5e+48,
+                "Threshold": 6.5e+45,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
@@ -4783,7 +4783,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 5.6e+6,
+                "Threshold": 555555,
                 "ConditionId": "drumstickfarm"
             },
             "Reward": {
@@ -4815,7 +4815,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 7.5e+6,
+                "Threshold": 5.7e+6,
                 "ConditionId": "silosmasher"
             },
             "Reward": {
@@ -4863,7 +4863,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3.27e+7,
+                "Threshold": 4.5e+7,
                 "ConditionId": "drumstickfarm"
             },
             "Reward": {
