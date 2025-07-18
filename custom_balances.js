@@ -1590,9 +1590,9 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "gobbleguru",
-            "Name": "Gobblegurus",
-            "ResourceType": "gobbleguru",
+            "Id": "gobblepen",
+            "Name": "Gobblepens",
+            "ResourceType": "gobblepen",
             "GeneratorType": "Manual",
             "IndustryId": "animallabour",
             "Cost": [
@@ -1645,7 +1645,7 @@ DATA["thanksgiving-bal-10"] = {
             "IndustryId": "animallabour",
             "Cost": [
                 {
-                    "Resource": "gobbleguru",
+                    "Resource": "gobblepen",
                     "Qty": 50000
                 },
                 {
@@ -1658,20 +1658,20 @@ DATA["thanksgiving-bal-10"] = {
                 }
             ],
             "Generate": {
-                "Resource": "gobbleguru",
+                "Resource": "gobblepen",
                 "Qty": 30
             },
             "BaseCompletionTime": 48,
             "Visible": [
                 {
                     "ConditionType": "ResourceQuantity",
-                    "ConditionId": "gobbleguru",
+                    "ConditionId": "gobblepen",
                     "Threshold": 2
                 }
             ],
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
-                "ConditionId": "gobbleguru",
+                "ConditionId": "gobblepen",
                 "Threshold": 1.5e+7
             },
             "IncludeInAll": true,
@@ -3533,7 +3533,7 @@ DATA["thanksgiving-bal-10"] = {
             ]
         },
         {
-            "GeneratorId": "gobbleguru",
+            "GeneratorId": "gobblepen",
             "MaximumObjectivesForRank": [
                 999
             ]
@@ -4143,7 +4143,7 @@ DATA["thanksgiving-bal-10"] = {
             "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 3,
-                "ConditionId": "gobbleguru"
+                "ConditionId": "gobblepen
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -4309,7 +4309,7 @@ DATA["thanksgiving-bal-10"] = {
             "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 16000,
-                "ConditionId": "gobbleguru"
+                "ConditionId": "gobblepen"
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -4464,7 +4464,7 @@ DATA["thanksgiving-bal-10"] = {
             "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 999999,
-                "ConditionId": "gobbleguru"
+                "ConditionId": "gobblepen
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -4544,7 +4544,7 @@ DATA["thanksgiving-bal-10"] = {
             "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 1.5e+7,
-                "ConditionId": "gobbleguru"
+                "ConditionId": "gobblepen"
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -6853,7 +6853,7 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "THX011",
             "Name": "I2T2",
             "ModType": "GenManagerAndSpeedMult",
-            "TargetIds": ["gobbleguru"],
+            "TargetIds": ["gobblepen"],
             "ExpoMultiplier": 4,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
@@ -7683,9 +7683,9 @@ DATA["thanksgiving-bal-10"] = {
             "SharedData": false
         },
         {
-            "Id": "gobbleguru",
-            "Singular": "Gobbleguru",
-            "Plural": "gobblegurus",
+            "Id": "gobblepen",
+            "Singular": "Gobblepen",
+            "Plural": "gobblepens",
             "StartingQty": 1,
             "Resettable": true,
             "SharedData": false
@@ -8465,8 +8465,8 @@ resource.turkeyleg.singular=Turkey Leg
 resource.turkeyleg.plural=Turkey Legs
 resource.backyardturkey.singular=Backyard Turkey
 resource.backyardturkey.plural=Backyard Turkeys
-resource.gobbleguru.singular=Gobble Guru
-resource.gobbleguru.plural=Gobble Gurus
+resource.gobblepen.singular=Gobble Pen
+resource.gobblepen.plural=Gobble Pens
 resource.drumstickfarm.singular=Drumstick Farm
 resource.drumstickfarm.plural=Drumstick Farms
 resource.feastfactory.singular=Feast Factory
