@@ -7332,7 +7332,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I1Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "potatomasher,chef,kitchen,tatertruck,silosmasher,gravyfeds,feastfoundry,carbcollective,mashmonument"
+                "mashpotato"
             ],
             "ExpoMultiplier": 0.5,
             "ExpoGrowth": 4,
