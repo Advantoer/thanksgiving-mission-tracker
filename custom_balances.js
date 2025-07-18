@@ -7400,7 +7400,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I5Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "cornucopia"
+                "dumpsterhorn,craftfairsupply,harvesthornsmith,gildedgourd,theinfinitehorn"
             ],
             "ExpoMultiplier": 1,
             "ExpoGrowth": 4,
