@@ -7349,7 +7349,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I2Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "turkeyleg"
+                "Turkeyleg"
             ],
             "ExpoMultiplier": 0.5,
             "ExpoGrowth": 4,
