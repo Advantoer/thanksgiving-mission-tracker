@@ -4464,7 +4464,7 @@ DATA["thanksgiving-bal-10"] = {
             "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 999999,
-                "ConditionId": "gobblepen
+                "ConditionId": "gobblepen"
             },
             "Reward": {
                 "Reward": "Gacha",
