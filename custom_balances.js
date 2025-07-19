@@ -4543,7 +4543,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.5e+7,
+                "Threshold": 1.6e+7,
                 "ConditionId": "gobblepen"
             },
             "Reward": {
