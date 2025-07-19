@@ -5455,7 +5455,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
-                "Threshold": 10,
+                "Threshold": 11,
                 "ConditionId": "pie"
             },
             "Reward": {
