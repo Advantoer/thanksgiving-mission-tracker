@@ -5107,7 +5107,7 @@ DATA["thanksgiving-bal-10"] = {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
                 "Threshold": 5.49e+47,
                 "ConditionId": "turkeyleg"
-            
+            },
             "Reward": {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
