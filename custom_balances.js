@@ -4783,7 +4783,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 555555,
+                "Threshold": 789789,
                 "ConditionId": "drumstickfarm"
             },
             "Reward": {
@@ -4831,7 +4831,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 350,
+                "Threshold": 9000,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -4863,7 +4863,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4.5e+7,
+                "Threshold": 6.6e+7,
                 "ConditionId": "drumstickfarm"
             },
             "Reward": {
@@ -4895,7 +4895,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 99999,
+                "Threshold": 1111111,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -4909,7 +4909,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.2e+10,
+                "Threshold": 1.12e+19,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -4923,7 +4923,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 8e+7,
+                "Threshold": 8.4e+7,
                 "ConditionId": "silosmasher"
             },
             "Reward": {
@@ -4951,7 +4951,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 3.3e+46,
+                "Threshold": 7.8e+43,
                 "ConditionId": "turkeyleg"
             },
             "Reward": {
