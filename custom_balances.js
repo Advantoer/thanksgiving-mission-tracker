@@ -7332,7 +7332,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I1Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "mashpotato"
+                "foodlabour"
             ],
             "ExpoMultiplier": 0.5,
             "ExpoGrowth": 4,
@@ -7349,7 +7349,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I2Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "Turkeyleg"
+                "animallabour"
             ],
             "ExpoMultiplier": 0.5,
             "ExpoGrowth": 4,
@@ -7366,7 +7366,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I3Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "fire"
+                "technician"
             ],
             "ExpoMultiplier": 0.75,
             "ExpoGrowth": 4,
@@ -7383,7 +7383,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I4Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "pie"
+                "baker"
             ],
             "ExpoMultiplier": 1,
             "ExpoGrowth": 4,
@@ -7400,7 +7400,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "I5Production",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "dumpsterhorn,craftfairsupply,harvesthornsmith,gildedgourd,theinfinitehorn"
+                "botanist"
             ],
             "ExpoMultiplier": 1,
             "ExpoGrowth": 4,
@@ -7417,7 +7417,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "GlobalProduction",
             "ModType": "GeneratorPayoutMultiplier",
             "TargetIds": [
-                "mashpotato,turkeyleg,fire,pie,cornucopia"
+                "foodlabour, animallabour, technician, baker, botanist"
             ],
             "ExpoMultiplier": 0.75,
             "ExpoGrowth": 4,
@@ -7536,7 +7536,7 @@ DATA["thanksgiving-bal-10"] = {
             "Name": "GlobalDiscount",
             "ModType": "GeneratorCostReduction",
             "TargetIds": [
-                "foodlabour,animallabour,technician,baker,botanist"
+                "foodlabour, animallabour, technician, baker, botanist"
             ],
             "ExpoMultiplier": 1,
             "ExpoGrowth": 10,
