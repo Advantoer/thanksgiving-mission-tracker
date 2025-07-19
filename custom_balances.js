@@ -7419,7 +7419,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "foodlabour, animallabour, technician, baker, botanist"
             ],
-            "ExpoMultiplier": 0.75,
+            "ExpoMultiplier": 0.5,
             "ExpoGrowth": 4,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -7521,7 +7521,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "foodlabour,animallabour,technician,baker,botanist"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 2,
             "ExpoGrowth": 2,
             "UpgradePower": 0,
             "CurveModifier": 0,
