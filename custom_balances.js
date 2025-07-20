@@ -5418,7 +5418,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m24",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
@@ -5446,7 +5446,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m22",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
@@ -5516,7 +5516,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m24",
                 "Value": 1
             }
         },
