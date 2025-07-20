@@ -5436,17 +5436,17 @@ DATA["thanksgiving-bal-10"] = {
                 "Value": 1
             }
         },
-        {
+         {
             "Id": "M111",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 2.5e+9,
-                "ConditionId": "familyoven"
+                "Threshold": 5,
+                "ConditionId": "gravyfeds"
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m22",
                 "Value": 1
             }
         },
@@ -5552,13 +5552,13 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M119",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourceQuantity",
+                "ConditionType": "ResearchersUpgradedSinceSubscription",
                 "Threshold": 5,
-                "ConditionId": "gravyfeds"
+                "ConditionId": "any"
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m22",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
