@@ -2030,7 +2030,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 1e+29
+                    "Qty": 1e+31
                 },
                 {
                     "Resource": "Comrade",
@@ -2052,7 +2052,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "familyoven",
-                "Threshold": 3e+8
+                "Threshold": 3e+9
             },
             "IncludeInAll": true,
             "Crit": {
@@ -5329,7 +5329,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3e+7,
+                "Threshold": 3e+8,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5385,20 +5385,6 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1,
-                "ConditionId": "commercialroaster"
-            },
-            "Reward": {
-                "Reward": "Gacha",
-                "RewardId": "sc_m22",
-                "Value": 1
-            }
-        },
-        {
-            "Id": "M108",
-            "Rank": 1,
-            "Condition": {
-                "ConditionType": "ResourceQuantity",
                 "Threshold": 7.5e+8,
                 "ConditionId": "silosmasher"
             },
@@ -5409,7 +5395,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M109",
+            "Id": "M108",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
@@ -5423,7 +5409,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M110",
+            "Id": "M109",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
@@ -5437,7 +5423,91 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
+            "Id": "M110",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 7.6e+71,
+                "ConditionId": "mashpotato"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M111",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 2.5e+9,
+                "ConditionId": "familyoven"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m22",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M112",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 4.44e+51,
+                "ConditionId": "turkeyleg"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
             "Id": "M113",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 55,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m22",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M114",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 7.6e+71,
+                "ConditionId": "mashpotato"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M115",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 650,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M116",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "IndustryUnlocked",
@@ -5451,7 +5521,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M114",
+            "Id": "M117",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
@@ -5465,7 +5535,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M115",
+            "Id": "M118",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
@@ -5479,7 +5549,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M116",
+            "Id": "M119",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
@@ -5493,7 +5563,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M117",
+            "Id": "M120",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
@@ -5507,11 +5577,11 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M118",
+            "Id": "M121",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 55,
+                "Threshold": 11400,
                 "ConditionId": "commercialroaster"
             },
             "Reward": {
