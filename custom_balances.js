@@ -5203,7 +5203,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1e+66,
+                "Threshold": 1e+67,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
@@ -5245,7 +5245,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 6e+67,
+                "Threshold": 6e+68,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
@@ -5399,7 +5399,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.35e+70,
+                "Threshold": 2.35e+71,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
@@ -5427,12 +5427,12 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 7.6e+71,
+                "Threshold": 7.6e+72,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m22",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
@@ -5446,7 +5446,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m22,
                 "Value": 1
             }
         },
@@ -5455,7 +5455,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 3.73e+52,
+                "Threshold": 2.73e+53,
                 "ConditionId": "turkeyleg"
             },
             "Reward": {
