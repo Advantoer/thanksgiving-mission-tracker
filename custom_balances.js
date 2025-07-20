@@ -5476,8 +5476,9 @@ DATA["thanksgiving-bal-10"] = {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
                 "Value": 1
-            },
-            {
+            }
+        },
+        {
             "Id": "M116",
             "Rank": 1,
             "Condition": {
@@ -5489,8 +5490,9 @@ DATA["thanksgiving-bal-10"] = {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
                 "Value": 1
-            },
-            {
+            }
+        },
+        {
             "Id": "M117",
             "Rank": 1,
             "Condition": {
@@ -5502,8 +5504,9 @@ DATA["thanksgiving-bal-10"] = {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
                 "Value": 1
-            },
-            {
+            }
+        },
+        {
             "Id": "M118",
             "Rank": 1,
             "Condition": {
