@@ -6743,7 +6743,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteCommon",
-            "PlayerRankUnlock": 19,
+            "PlayerRankUnlock": 20,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
