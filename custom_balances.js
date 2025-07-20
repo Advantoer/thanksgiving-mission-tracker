@@ -1982,7 +1982,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 5e+21
+                    "Qty": 5e+17
                 },
                 {
                     "Resource": "Comrade",
@@ -4719,7 +4719,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1.7e+19,
+                "Threshold": 2.8e+18,
                 "ConditionId": "fire"
             },
             "Reward": {
