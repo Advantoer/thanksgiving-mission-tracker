@@ -1768,7 +1768,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "feastfactory",
-                "Threshold": 2e+10
+                "Threshold": 3e+10
             },
             "IncludeInAll": true,
             "Crit": {
