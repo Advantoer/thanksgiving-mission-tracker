@@ -4831,7 +4831,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 9000,
+                "Threshold": 900,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -4895,7 +4895,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 70000,
+                "Threshold": 7000,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5021,7 +5021,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.42e+6,
+                "Threshold": 142000,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5063,7 +5063,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4.4e+7,
+                "Threshold": 4.4e+6,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5133,7 +5133,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.44e+8,
+                "Threshold": 5.4e+7,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5273,7 +5273,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 9.9e+8,
+                "Threshold": 2.7e+8,
                 "ConditionId": "familyoven"
             },
             "Reward": {
