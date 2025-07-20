@@ -1982,7 +1982,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 5e+13
+                    "Qty": 5e+21
                 },
                 {
                     "Resource": "Comrade",
@@ -2030,7 +2030,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 1e+32
+                    "Qty": 1e+33
                 },
                 {
                     "Resource": "Comrade",
@@ -4248,7 +4248,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 999999,
+                "Threshold": 1.23e+6,
                 "ConditionId": "kitchen"
             },
             "Reward": {
@@ -4655,7 +4655,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 3.113e+13,
+                "Threshold": 3.113e+16,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -4718,13 +4718,13 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M061",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourceQuantity",
-                "Threshold": 16,
-                "ConditionId": "familyoven"
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 1.7e+19,
+                "ConditionId": "fire"
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "armored",
                 "Value": 1
 
             }
@@ -4734,13 +4734,13 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M062",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1.7e+16,
-                "ConditionId": "fire"
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 16,
+                "ConditionId": "familyoven"
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "armored",
+                "RewardId": "plastic",
                 "Value": 1
 
             }
@@ -4909,7 +4909,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1.12e+19,
+                "Threshold": 1.12e+26,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5021,7 +5021,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 84200,
+                "Threshold": 1.42e+6,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5035,7 +5035,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 7.3e+23,
+                "Threshold": 7.3e+27,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5063,7 +5063,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 450000,
+                "Threshold": 4.4e+7,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5119,7 +5119,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 9.4e+26,
+                "Threshold": 9.4e+29,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5133,7 +5133,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.44e+6,
+                "Threshold": 1.44e+8,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5259,7 +5259,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 6.3e+27,
+                "Threshold": 8.5e+30,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5273,7 +5273,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 9.9e+6,
+                "Threshold": 9.9e+8,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5287,7 +5287,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 9.89e+27,
+                "Threshold": 6e+31,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5329,7 +5329,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3e+8,
+                "Threshold": 3e+9,
                 "ConditionId": "familyoven"
             },
             "Reward": {
@@ -5357,7 +5357,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1.41e+30,
+                "Threshold": 1.56e+32,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5371,8 +5371,8 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 9.99e+31,
-                "ConditionId": "fire"
+                "Threshold": 1900,
+                "ConditionId": "darkscience"
             },
             "Reward": {
                 "Reward": "Gacha",
