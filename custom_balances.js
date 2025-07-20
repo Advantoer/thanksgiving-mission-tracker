@@ -901,7 +901,7 @@ DATA["thanksgiving-bal-10"] = {
             "Card": [
                 {
                     "Id": "THX025",
-                    "Value": 4
+                    "Value": 5
                 },
                 {
                     "Id": "THX047",
@@ -1071,6 +1071,58 @@ DATA["thanksgiving-bal-10"] = {
         },
         {
             "GachaId": "sc_m33",
+            "MimicGachaId": "plastic",
+            "Science": 225,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
+                {
+                    "Id": "THX015",
+                    "Value": 12
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m34",
+            "MimicGachaId": "plastic",
+            "Science": 230,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
+                {
+                    "Id": "THX050",
+                    "Value": 3
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m35",
+            "MimicGachaId": "plastic",
+            "Science": 234,
+            "Gold": 0,
+            "Trophy": 286,
+            "Card": [
+                {
+                    "Id": "THX021",
+                    "Value": 11
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m36",
+            "MimicGachaId": "plastic",
+            "Science": 225,
+            "Gold": 0,
+            "Trophy": 280,
+            "Card": [
+                {
+                    "Id": "THX015",
+                    "Value": 12
+                },
+            ]
+        },
+        {
+            "GachaId": "sc_m37",
             "MimicGachaId": "plastic",
             "Science": 225,
             "Gold": 0,
@@ -5436,7 +5488,7 @@ DATA["thanksgiving-bal-10"] = {
                 "Value": 1
             }
         },
-         {
+        {
             "Id": "M111",
             "Rank": 1,
             "Condition": {
@@ -5455,7 +5507,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.73e+53,
+                "Threshold": 1.73e+53,
                 "ConditionId": "turkeyleg"
             },
             "Reward": {
@@ -5511,7 +5563,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 2.5e+7,
+                "Threshold": 7.5e+7,
                 "ConditionId": "crustkneader"
             },
             "Reward": {
@@ -5525,7 +5577,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 7.5e+17,
+                "Threshold": 2.5e+15,
                 "ConditionId": "pie"
             },
             "Reward": {
@@ -5567,7 +5619,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.2e+37,
+                "Threshold": 2.2e+39,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -5629,6 +5681,244 @@ DATA["thanksgiving-bal-10"] = {
             "Reward": {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M125",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 1100,
+                "ConditionId": "darkscience"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "armored",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M126",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 22,
+                "ConditionId": "gravyfeds"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M127",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 5e+16,
+                "ConditionId": "pie"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M128",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 150000,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M129",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 7.1e+74,
+                "ConditionId": "mashpotato"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M130",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 5e+40,
+                "ConditionId": "fire"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m25",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M131",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 1.6e+7,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M131",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 2e+8,
+                "ConditionId": "crustkneader"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m26",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M132",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 2.79e+7,
+                "ConditionId": "feastfactory"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M133",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 1650,
+                "ConditionId": "darkscience"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "armored",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M134",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 2e+18,
+                "ConditionId": "pie"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M135",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 8.88e+56,
+                "ConditionId": "turkeyleg"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M136",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 1.31e+8,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M137",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 350,
+                "ConditionId": "gravyfeds"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M138",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 9e+8,
+                "ConditionId": "crustkneader"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m29",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M139",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 1.2e+9,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M140",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 3,
+                "ConditionId": "fillingwhipper"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m32",
                 "Value": 1
             }
         },
