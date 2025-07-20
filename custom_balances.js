@@ -5286,20 +5286,6 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M100",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourceQuantity",
-                "Threshold": 74000,
-                "ConditionId": "feastfactory"
-            },
-            "Reward": {
-                "Reward": "Gacha",
-                "RewardId": "plastic",
-                "Value": 1
-            }
-        },
-        {
-            "Id": "M101",
-            "Rank": 1,
-            "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
                 "Threshold": 9.89e+27,
                 "ConditionId": "fire"
@@ -5307,6 +5293,20 @@ DATA["thanksgiving-bal-10"] = {
             "Reward": {
                 "Reward": "Gacha",
                 "RewardId": "sc_m21",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M101",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 34000,
+                "ConditionId": "feastfactory"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
@@ -5455,7 +5455,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 4.44e+51,
+                "Threshold": 1.73e+53,
                 "ConditionId": "turkeyleg"
             },
             "Reward": {
@@ -5474,40 +5474,12 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m22",
+                "RewardId": "sc_m25",
                 "Value": 1
             }
         },
         {
             "Id": "M114",
-            "Rank": 1,
-            "Condition": {
-                "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 7.6e+71,
-                "ConditionId": "mashpotato"
-            },
-            "Reward": {
-                "Reward": "Gacha",
-                "RewardId": "plastic",
-                "Value": 1
-            }
-        },
-        {
-            "Id": "M115",
-            "Rank": 1,
-            "Condition": {
-                "ConditionType": "ResourceQuantity",
-                "Threshold": 650,
-                "ConditionId": "commercialroaster"
-            },
-            "Reward": {
-                "Reward": "Gacha",
-                "RewardId": "plastic",
-                "Value": 1
-            }
-        },
-        {
-            "Id": "M116",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "IndustryUnlocked",
@@ -5521,7 +5493,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M117",
+            "Id": "M115",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "TradesSinceSubscription",
@@ -5535,7 +5507,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M118",
+            "Id": "M116",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
@@ -5549,7 +5521,7 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
-            "Id": "M119",
+            "Id": "M117",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
@@ -5563,12 +5535,40 @@ DATA["thanksgiving-bal-10"] = {
             }
         },
         {
+            "Id": "M118",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 650,
+                "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M119",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 5,
+                "ConditionId": "gravyfeds"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m22",
+                "Value": 1
+            }
+        },
+        {
             "Id": "M120",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "TradesSinceSubscription",
-                "Threshold": 5,
-                "ConditionId": "gravyfeds"
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 2.2e+37,
+                "ConditionId": "fire"
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -5580,9 +5580,51 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M121",
             "Rank": 1,
             "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 2.15e+73,
+                "ConditionId": "mashpotato"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M122",
+            "Rank": 1,
+            "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 11400,
                 "ConditionId": "commercialroaster"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M123",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 1.48e+6,
+                "ConditionId": "feastfactory"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M124",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 8.88e+54,
+                "ConditionId": "turkeyleg"
             },
             "Reward": {
                 "Reward": "Gacha",
@@ -6638,7 +6680,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteCommon",
-            "PlayerRankUnlock": 17,
+            "PlayerRankUnlock": 18,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
