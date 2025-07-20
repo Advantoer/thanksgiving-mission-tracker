@@ -2130,7 +2130,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 1e+56
+                    "Qty": 2.5e+55
                 },
                 {
                     "Resource": "Comrade",
@@ -6142,7 +6142,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "sc_m30",
+                "RewardId": "plastic",
                 "Value": 1
             }
         },
@@ -6162,6 +6162,36 @@ DATA["thanksgiving-bal-10"] = {
         },
         {
             "Id": "M159",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 6.99e+80,
+                "ConditionId": "mashpotato"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+
+        
+        {
+            "Id": "M163",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 9.2e+55,
+                "ConditionId": "fire"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m30",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M169",
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
