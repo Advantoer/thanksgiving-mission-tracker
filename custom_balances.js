@@ -1124,13 +1124,13 @@ DATA["thanksgiving-bal-10"] = {
         {
             "GachaId": "sc_m37",
             "MimicGachaId": "plastic",
-            "Science": 225,
+            "Science": 250,
             "Gold": 0,
-            "Trophy": 280,
+            "Trophy": 300,
             "Card": [
                 {
-                    "Id": "THX015",
-                    "Value": 12
+                    "Id": "THX053",
+                    "Value": 1
                 },
             ]
         },
@@ -6240,7 +6240,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m28",
                 "Value": 1
             }
         },
@@ -6417,7 +6417,77 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4,
+                "Threshold": 15,
+                "ConditionId": "feastfoundry"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m37",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M178",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 232,
+                "ConditionId": "turkeylegtycoon"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M179",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 20000,
+                "ConditionId": "conveyorbeltbakeline"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M180",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 9.5e+8,
+                "ConditionId": "fillingwhipper"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M181",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesSpentSinceSubscription",
+                "Threshold": 4200,
+                "ConditionId": "darkscience"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "armored",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M182",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 465,
                 "ConditionId": "feastfoundry"
             },
             "Reward": {
@@ -8111,7 +8181,7 @@ DATA["thanksgiving-bal-10"] = {
             "CurveModifier": 0,
             "BasePower": 0,
             "Rarity": "LteRare",
-            "PlayerRankUnlock": 29,
+            "PlayerRankUnlock": 28,
             "ResearchOutputType": "Constant",
             "ResearchOutputRate": 1
         },
