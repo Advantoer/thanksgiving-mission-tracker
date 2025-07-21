@@ -1868,7 +1868,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "turkeylegtycoon",
-                "Threshold": 2e+11
+                "Threshold": 2.5e+11
             },
             "IncludeInAll": true,
             "Crit": {
@@ -6515,7 +6515,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 325437,
+                "Threshold": 987987,
                 "ConditionId": "turkeylegtycoon"
             },
             "Reward": {
@@ -6571,7 +6571,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4e+7,
+                "Threshold": 8e+8,
                 "ConditionId": "turkeylegtycoon"
             },
             "Reward": {
@@ -6599,7 +6599,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 9.99e+59,
+                "Threshold": 9.99e+61,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -6641,7 +6641,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1.75e+74,
+                "Threshold": 1.75e+77,
                 "ConditionId": "turkeyleg"
             },
             "Reward": {
@@ -6781,7 +6781,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.5e+8,
+                "Threshold": 8e+9,
                 "ConditionId": "feastfoundry"
             },
             "Reward": {
@@ -6795,7 +6795,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3e+9,
+                "Threshold": 3e+10,
                 "ConditionId": "conveyorbeltbakeline"
             },
             "Reward": {
@@ -6809,7 +6809,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 4e+9,
+                "Threshold": 2e+11,
                 "ConditionId": "turkeylegtycoon"
             },
             "Reward": {
@@ -6823,7 +6823,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 5e+94,
+                "Threshold": 1e+99,
                 "ConditionId": "mashpotato"
             },
             "Reward": {
@@ -6837,7 +6837,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 45000,
+                "Threshold": 450000,
                 "ConditionId": "pieassemblyline"
             },
             "Reward": {
@@ -6851,7 +6851,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 1e+62,
+                "Threshold": 2.5e+64,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -6865,7 +6865,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 3e+10,
+                "Threshold": 1.5e+11,
                 "ConditionId": "conveyorbeltbakeline"
             },
             "Reward": {
@@ -6879,7 +6879,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 5e+63,
+                "Threshold": 2.5e+66,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -6893,7 +6893,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 7.5e+45,
+                "Threshold": 2e+46,
                 "ConditionId": "pie"
             },
             "Reward": {
