@@ -6431,7 +6431,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 877,
+                "Threshold": 1728,
                 "ConditionId": "turkeylegtycoon"
             },
             "Reward": {
@@ -6493,6 +6493,20 @@ DATA["thanksgiving-bal-10"] = {
             "Reward": {
                 "Reward": "Gacha",
                 "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M183",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResearchersUpgradedSinceSubscription",
+                "Threshold": 4,
+                "ConditionId": "any"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "armored",
                 "Value": 1
             }
         },
