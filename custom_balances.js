@@ -6403,7 +6403,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.22e36,
+                "Threshold": 2.222e37,
                 "ConditionId": "pie"
             },
             "Reward": {
