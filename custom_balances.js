@@ -6193,7 +6193,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 620000,
+                "Threshold": 5.75e+6,
                 "ConditionId": "fillingwhipper"
             },
             "Reward": {
@@ -6361,7 +6361,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 7e+7,
+                "Threshold": 9.5e+8,
                 "ConditionId": "fillingwhipper"
             },
             "Reward": {
@@ -6375,7 +6375,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 200,
+                "Threshold": 270,
                 "ConditionId": "conveyorbeltbakeline"
             },
             "Reward": {
@@ -6403,7 +6403,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 3.3e28,
+                "Threshold": 3.33e32,
                 "ConditionId": "pie"
             },
             "Reward": {
@@ -6431,7 +6431,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 232,
+                "Threshold": 877,
                 "ConditionId": "turkeylegtycoon"
             },
             "Reward": {
@@ -6445,7 +6445,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 20000,
+                "Threshold": 56000,
                 "ConditionId": "conveyorbeltbakeline"
             },
             "Reward": {
@@ -6459,7 +6459,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 9.5e+8,
+                "Threshold": 8.25e+9,
                 "ConditionId": "fillingwhipper"
             },
             "Reward": {
