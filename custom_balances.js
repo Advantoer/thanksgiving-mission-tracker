@@ -6740,7 +6740,7 @@ DATA["thanksgiving-bal-10"] = {
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
                 "Threshold": 5250,
-                "ConditionId": "any"
+                "ConditionId": "darkscience"
             },
             "Reward": {
                 "Reward": "Gacha",
