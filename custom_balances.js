@@ -6612,7 +6612,7 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M191",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourcesQuantity",
+                "ConditionType": "ResourceQuantity",
                 "Threshold": 20000,
                 "ConditionId": "feastfoundry"
             },
