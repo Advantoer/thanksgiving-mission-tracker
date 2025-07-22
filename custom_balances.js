@@ -376,7 +376,7 @@ DATA["thanksgiving-bal-10"] = {
             "Type": "Scripted"
         },
         {
-            "Id": "sc_39",
+            "Id": "sc_m39",
             "Type": "Scripted"
         },
         {
@@ -7206,7 +7206,7 @@ DATA["thanksgiving-bal-10"] = {
             },
             "Reward": {
                 "Reward": "Gacha",
-                "RewardId": "plastic",
+                "RewardId": "sc_m36",
                 "Value": 1
             }
         },  
