@@ -2178,7 +2178,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 1e+82
+                    "Qty": 1e+77
                 },
                 {
                     "Resource": "Comrade",
