@@ -1798,7 +1798,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Turkeyleg",
-                    "Qty": 5e+65
+                    "Qty": 5e+66
                 },
                 {
                     "Resource": "Comrade",
@@ -2034,7 +2034,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 5e+17
+                    "Qty": 5e+18
                 },
                 {
                     "Resource": "Comrade",
@@ -2082,7 +2082,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 1e+32
+                    "Qty": 5e+32
                 },
                 {
                     "Resource": "Comrade",
@@ -2130,7 +2130,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Fire",
-                    "Qty": 2.5e+55
+                    "Qty": 2.5e+56
                 },
                 {
                     "Resource": "Comrade",
@@ -2366,7 +2366,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Pie",
-                    "Qty": 5e+19
+                    "Qty": 5e+20
                 },
                 {
                     "Resource": "Comrade",
@@ -2414,7 +2414,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Pie",
-                    "Qty": 1e+40
+                    "Qty": 5e+40
                 },
                 {
                     "Resource": "Comrade",
