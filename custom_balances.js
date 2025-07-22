@@ -1584,7 +1584,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "carbcollective",
-                "Threshold": 1e+13
+                "Threshold": 2e+13
             },
             "IncludeInAll": true,
             "Crit": {
@@ -1916,7 +1916,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "gravyreactor",
-                "Threshold": 1.25e+12
+                "Threshold": 1.5e+12
             },
             "IncludeInAll": true,
             "Crit": {
@@ -1964,7 +1964,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "pilgrimpoultrysyndicate",
-                "Threshold": 2e+12
+                "Threshold": 1.75e+13
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2200,7 +2200,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "conveyorbeltbakeline",
-                "Threshold": 3e+11
+                "Threshold": 2.5e+11
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2248,7 +2248,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "smartaioven",
-                "Threshold": 1e+12
+                "Threshold": 1.5e+12
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2296,7 +2296,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "volcanicbakingchamber",
-                "Threshold": 4e+12
+                "Threshold": 1.5e+13
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2532,7 +2532,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "pieempireexecutive",
-                "Threshold": 1e+12
+                "Threshold": 1.5e+12
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2580,7 +2580,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "sweetfusionlab",
-                "Threshold": 4e+12
+                "Threshold": 1.25e+13
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2768,7 +2768,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "harvesthornsmith",
-                "Threshold": 5e+11
+                "Threshold": 2e+12
             },
             "IncludeInAll": true,
             "Crit": {
@@ -2816,7 +2816,7 @@ DATA["thanksgiving-bal-10"] = {
             "Unlock": {
                 "ConditionType": "ResourceQuantity",
                 "ConditionId": "gildedgourd",
-                "Threshold": 3e+12
+                "Threshold": 1e+13
             },
             "IncludeInAll": true,
             "Crit": {
@@ -6865,7 +6865,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.5e+11,
+                "Threshold": 1.25e+11,
                 "ConditionId": "conveyorbeltbakeline"
             },
             "Reward": {
@@ -6895,6 +6895,48 @@ DATA["thanksgiving-bal-10"] = {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
                 "Threshold": 2e+47,
                 "ConditionId": "pie"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M212",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 7.4e+86,
+                "ConditionId": "turkeyleg"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M213",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 6.75e+8,
+                "ConditionId": "pieassemblyline"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "plastic",
+                "Value": 1
+            }
+        },
+        {
+            "Id": "M214",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourceQuantity",
+                "Threshold": 3e+11,
+                "ConditionId": "conveyorbeltbakeline"
             },
             "Reward": {
                 "Reward": "Gacha",
