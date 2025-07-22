@@ -7369,7 +7369,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourceQuantity",
-                "Threshold": 1.5e+8,
+                "Threshold": 2.5e+8,
                 "ConditionId": "dumpsterhorn"
             },
             "Reward": {
@@ -7383,7 +7383,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.5e+20,
+                "Threshold": 3e+20,
                 "ConditionId": "cornucopia"
             },
             "Reward": {
