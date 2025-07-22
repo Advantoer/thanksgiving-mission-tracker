@@ -7383,7 +7383,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.5e+25,
+                "Threshold": 2.5e+20,
                 "ConditionId": "cornucopia"
             },
             "Reward": {
