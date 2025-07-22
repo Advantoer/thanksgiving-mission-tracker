@@ -6851,7 +6851,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 2.5e+69,
+                "Threshold": 5e+70,
                 "ConditionId": "fire"
             },
             "Reward": {
@@ -6879,7 +6879,7 @@ DATA["thanksgiving-bal-10"] = {
             "Rank": 1,
             "Condition": {
                 "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 5e+71,
+                "Threshold": 7.5e+73,
                 "ConditionId": "fire"
             },
             "Reward": {
