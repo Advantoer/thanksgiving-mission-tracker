@@ -1898,7 +1898,7 @@ DATA["thanksgiving-bal-10"] = {
                 },
                 {
                     "Resource": "Turkeyleg",
-                    "Qty": 1e+92
+                    "Qty": 5e+96
                 },
                 {
                     "Resource": "Comrade",
@@ -7242,20 +7242,6 @@ DATA["thanksgiving-bal-10"] = {
             "Id": "M233",
             "Rank": 1,
             "Condition": {
-                "ConditionType": "ResourcesEarnedSinceSubscription",
-                "Threshold": 8.8e+97,
-                "ConditionId": "turkeyleg"
-            },
-            "Reward": {
-                "Reward": "Gacha",
-                "RewardId": "sc_m39",
-                "Value": 1
-            }
-        },
-        {
-            "Id": "M234",
-            "Rank": 1,
-            "Condition": {
                 "ConditionType": "ResourceQuantity",
                 "Threshold": 1200,
                 "ConditionId": "gravyreactor"
@@ -7266,6 +7252,20 @@ DATA["thanksgiving-bal-10"] = {
                 "Value": 1
             }
         },  
+        {
+            "Id": "M234",
+            "Rank": 1,
+            "Condition": {
+                "ConditionType": "ResourcesEarnedSinceSubscription",
+                "Threshold": 8.8e+98,
+                "ConditionId": "turkeyleg"
+            },
+            "Reward": {
+                "Reward": "Gacha",
+                "RewardId": "sc_m39",
+                "Value": 1
+            }
+        },
         {
             "Id": "M235",
             "Rank": 1,
