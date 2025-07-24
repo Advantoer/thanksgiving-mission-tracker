@@ -8972,7 +8972,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "pie"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
@@ -8989,7 +8989,7 @@ DATA["thanksgiving-bal-10"] = {
             "TargetIds": [
                 "cornucopia"
             ],
-            "ExpoMultiplier": 4,
+            "ExpoMultiplier": 3,
             "ExpoGrowth": 3,
             "UpgradePower": 0,
             "CurveModifier": 0,
