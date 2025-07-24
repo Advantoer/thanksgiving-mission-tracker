@@ -19,7 +19,7 @@ DATA["thanksgiving-bal-10"] = {
             "AirDropRewardType": "PrimaryCurrency",
             "IsAd": false,
             "IsAdSkippable": false,
-            "Weight": 10,
+            "Weight": 15,
             "MaxAdsPerInterval": -1,
             "RewardCalculation": {
                 "A": 450,
@@ -33,7 +33,7 @@ DATA["thanksgiving-bal-10"] = {
             "AirDropRewardType": "PrimaryCurrency",
             "IsAd": true,
             "IsAdSkippable": false,
-            "Weight": 50,
+            "Weight": 35,
             "MaxAdsPerInterval": 8,
             "RewardCalculation": {
                 "A": 7500,
@@ -47,7 +47,7 @@ DATA["thanksgiving-bal-10"] = {
             "AirDropRewardType": "SoftCurrency",
             "IsAd": true,
             "IsAdSkippable": false,
-            "Weight": 25,
+            "Weight": 35,
             "MaxAdsPerInterval": 5,
             "RewardCalculation": {
                 "A": 650,
